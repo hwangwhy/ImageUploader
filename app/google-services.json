@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655888575227",
+    "project_id": "imageuploader-5b0ea",
+    "storage_bucket": "imageuploader-5b0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655888575227:android:2d61b02b42285fb1c75e5e",
+        "android_client_info": {
+          "package_name": "com.example.imageuploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00yc1xf7WC1W2ObpfGGpofqMClFJtn2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
